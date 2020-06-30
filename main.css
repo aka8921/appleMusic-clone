@@ -148,6 +148,23 @@
   overflow: hidden;
 }
 
+.song:nth-child(2) {
+  background-image: url("./assets/album\ arts/2.jpg");
+}
+
+.song:nth-child(3) {
+  background-image: url("./assets/album\ arts/3.jpg");
+}
+
+.song:nth-child(4) {
+  background-image: url("./assets/album\ arts/4.jpg");
+}
+.song:nth-child(5) {
+  background-image: url("./assets/album\ arts/5.jpg");
+}
+.song:nth-child(6) {
+  background-image: url("./assets/album\ arts/6.jpg");
+}
 .details {
   padding: 1em;
   backdrop-filter: blur(20px);
